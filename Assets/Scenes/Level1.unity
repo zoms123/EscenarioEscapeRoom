@@ -16205,6 +16205,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1006501074242956391, guid: 6bacecc4f3df9584198879c73a6b6c36,
+        type: 3}
+      propertyPath: EscenaObjetivo
+      value: Level2
+      objectReference: {fileID: 0}
     - target: {fileID: 4459864850019384738, guid: 6bacecc4f3df9584198879c73a6b6c36,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -34257,6 +34262,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377668095720478515, guid: e9771cb24be9d724e801bb682c60aa2d,
+        type: 3}
+      propertyPath: nombre1
+      value: Level1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377668095720478515, guid: e9771cb24be9d724e801bb682c60aa2d,
+        type: 3}
+      propertyPath: nombre2
+      value: Level2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377668095720478515, guid: e9771cb24be9d724e801bb682c60aa2d,
+        type: 3}
+      propertyPath: nombre3
+      value: Level3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377668095720478515, guid: e9771cb24be9d724e801bb682c60aa2d,
+        type: 3}
+      propertyPath: nombre4
+      value: Level4
       objectReference: {fileID: 0}
     - target: {fileID: 4467428613289083382, guid: e9771cb24be9d724e801bb682c60aa2d,
         type: 3}

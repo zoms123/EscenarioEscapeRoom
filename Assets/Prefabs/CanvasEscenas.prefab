@@ -158,10 +158,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03ffbf663d3a8f34e8891152ae174897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombre1: AlbertoScene
-  nombre2: LauraScene
-  nombre3: MoraScene
-  nombre4: CarlosScene
+  nombre1: Level1
+  nombre2: Level2
+  nombre3: Level3
+  nombre4: Level4
 --- !u!1 &5387720376507347144
 GameObject:
   m_ObjectHideFlags: 0
